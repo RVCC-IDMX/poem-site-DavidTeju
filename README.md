@@ -10,17 +10,17 @@ The build process includes minifiying and autoprefixing of styles via the `postb
 
 ## Installation
 
-**`npm install`**
+`**npm install**`
 
->Run this command once to install the needed node modules.
+> Run this command once to install the needed node modules.
 
 ## Development Scripts
 
-**`npm start`**
+`**npm start**`
 
 > This script runs 11ty with hot reload and served at the url localhost:8080. It will reload whenever there are HTML or Sass changes.
 
-**`npm run build`**
+`**npm run build**`
 
 > This script does a production build and includes minified, autoprefixed CSS.
 
@@ -28,4 +28,5 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 
 ## Resources
 
-<small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)  
+The poem is The Gang [by James Stephens](https://www.public-domain-poetry.com/james-stephens) featuring an image of a gun _by_ [_Nerf Gun Silhouette_](http://getdrawings.com/nerf-gun-silhouette)
