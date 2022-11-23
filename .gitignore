@@ -13,3 +13,4 @@ public
 
 package-lock.json
 .vscode
+.prettierignore

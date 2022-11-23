@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 
 html {
-	background-color: mix(#afb7ae, white, 95);
+	background-color: mix(#afb7ae, white, 95%);
 	body {
-		background-color: mix(#afb7ae, black, 92);
+		background-color: mix(#afb7ae, black, 92%);
 		color: mix(#c2b490, white);
 		width: 80%;
 		min-width: 400px;
@@ -16,11 +16,11 @@ html {
 		font-family: "Playfair Display", serif;
 
 		:not(a) {
-			text-shadow: mix(black, mix(#c2b490, white), 80) 0.06em 0.05em 0.025em;
+			text-shadow: #000300 0.06em 0.06em 0.05em;
 		}
 		a {
 			color: mix(#c2b490, black);
-			text-shadow: mix(white, mix(#c2b490, black)) 0.06em 0.05em;
+			text-shadow: #fff 0.06em 0.05em 0.15em;
 			&:hover {
 				text-decoration: none;
 			}
